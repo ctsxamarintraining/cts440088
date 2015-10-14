@@ -1,0 +1,5 @@
+/Users/santhoshkumarburugu/Projects/Taskone/Taskone/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/santhoshkumarburugu/Projects/Taskone/Taskone/bin/Debug/Taskone.exe.mdb
+/Users/santhoshkumarburugu/Projects/Taskone/Taskone/bin/Debug/Taskone.exe
+/Users/santhoshkumarburugu/Projects/Taskone/Taskone/obj/x86/Debug/Taskone.exe
+/Users/santhoshkumarburugu/Projects/Taskone/Taskone/obj/x86/Debug/Taskone.exe.mdb
