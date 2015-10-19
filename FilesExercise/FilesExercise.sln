@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesExerciseOne", "FilesExerciseOne\FilesExerciseOne.csproj", "{DCFAD8D3-CA25-4B28-942D-37131D03FA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionDecryption", "EncryptionDecryption\EncryptionDecryption.csproj", "{79F03249-0A48-4B47-9B51-7F775AB6432B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{8F787B05-ADAE-43BA-B815-838D99993D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F03249-0A48-4B47-9B51-7F775AB6432B}.Debug|x86.ActiveCfg = Debug|x86
+		{79F03249-0A48-4B47-9B51-7F775AB6432B}.Debug|x86.Build.0 = Debug|x86
+		{79F03249-0A48-4B47-9B51-7F775AB6432B}.Release|x86.ActiveCfg = Release|x86
+		{79F03249-0A48-4B47-9B51-7F775AB6432B}.Release|x86.Build.0 = Release|x86
+		{8F787B05-ADAE-43BA-B815-838D99993D34}.Debug|x86.ActiveCfg = Debug|x86
+		{8F787B05-ADAE-43BA-B815-838D99993D34}.Debug|x86.Build.0 = Debug|x86
+		{8F787B05-ADAE-43BA-B815-838D99993D34}.Release|x86.ActiveCfg = Release|x86
+		{8F787B05-ADAE-43BA-B815-838D99993D34}.Release|x86.Build.0 = Release|x86
+		{DCFAD8D3-CA25-4B28-942D-37131D03FA2C}.Debug|x86.ActiveCfg = Debug|x86
+		{DCFAD8D3-CA25-4B28-942D-37131D03FA2C}.Debug|x86.Build.0 = Debug|x86
+		{DCFAD8D3-CA25-4B28-942D-37131D03FA2C}.Release|x86.ActiveCfg = Release|x86
+		{DCFAD8D3-CA25-4B28-942D-37131D03FA2C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

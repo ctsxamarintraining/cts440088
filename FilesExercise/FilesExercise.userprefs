@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Serialization/Serialization.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serialization/Program.cs">
+    <Files>
+      <File FileName="Serialization/Program.cs" Line="19" Column="28" />
+      <File FileName="Serialization/Product.cs" Line="9" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../FilesAssignment/FilesTwo/Program.cs" line="32" offsetX="647" offsetY="465" expression="file" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

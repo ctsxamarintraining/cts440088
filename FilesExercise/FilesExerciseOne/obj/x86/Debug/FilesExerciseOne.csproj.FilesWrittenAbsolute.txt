@@ -1,0 +1,5 @@
+/Users/divyavuppala/Projects/FilesExercise/FilesExerciseOne/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/divyavuppala/Projects/FilesExercise/FilesExerciseOne/bin/Debug/FilesExerciseOne.exe.mdb
+/Users/divyavuppala/Projects/FilesExercise/FilesExerciseOne/bin/Debug/FilesExerciseOne.exe
+/Users/divyavuppala/Projects/FilesExercise/FilesExerciseOne/obj/x86/Debug/FilesExerciseOne.exe
+/Users/divyavuppala/Projects/FilesExercise/FilesExerciseOne/obj/x86/Debug/FilesExerciseOne.exe.mdb
