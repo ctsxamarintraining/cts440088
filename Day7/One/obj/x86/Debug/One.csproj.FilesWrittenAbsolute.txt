@@ -1,0 +1,5 @@
+/Users/divyavuppala/Projects/Day7/One/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/divyavuppala/Projects/Day7/One/bin/Debug/One.exe.mdb
+/Users/divyavuppala/Projects/Day7/One/bin/Debug/One.exe
+/Users/divyavuppala/Projects/Day7/One/obj/x86/Debug/One.exe
+/Users/divyavuppala/Projects/Day7/One/obj/x86/Debug/One.exe.mdb
