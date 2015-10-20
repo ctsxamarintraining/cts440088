@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6Ex3", "Day6Ex3\Day6Ex3.csproj", "{7FBFD2A2-4EB5-442D-80F7-E754B4277269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6Ex4", "Day6Ex4\Day6Ex4.csproj", "{E16407F2-3C6D-4528-ABBB-26D053F1114A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6Ex5", "Day6Ex5\Day6Ex5.csproj", "{ECAC2B19-AE2E-409F-8FDB-8A83AF734B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBFD2A2-4EB5-442D-80F7-E754B4277269}.Debug|x86.ActiveCfg = Debug|x86
+		{7FBFD2A2-4EB5-442D-80F7-E754B4277269}.Debug|x86.Build.0 = Debug|x86
+		{7FBFD2A2-4EB5-442D-80F7-E754B4277269}.Release|x86.ActiveCfg = Release|x86
+		{7FBFD2A2-4EB5-442D-80F7-E754B4277269}.Release|x86.Build.0 = Release|x86
+		{E16407F2-3C6D-4528-ABBB-26D053F1114A}.Debug|x86.ActiveCfg = Debug|x86
+		{E16407F2-3C6D-4528-ABBB-26D053F1114A}.Debug|x86.Build.0 = Debug|x86
+		{E16407F2-3C6D-4528-ABBB-26D053F1114A}.Release|x86.ActiveCfg = Release|x86
+		{E16407F2-3C6D-4528-ABBB-26D053F1114A}.Release|x86.Build.0 = Release|x86
+		{ECAC2B19-AE2E-409F-8FDB-8A83AF734B9B}.Debug|x86.ActiveCfg = Debug|x86
+		{ECAC2B19-AE2E-409F-8FDB-8A83AF734B9B}.Debug|x86.Build.0 = Debug|x86
+		{ECAC2B19-AE2E-409F-8FDB-8A83AF734B9B}.Release|x86.ActiveCfg = Release|x86
+		{ECAC2B19-AE2E-409F-8FDB-8A83AF734B9B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
